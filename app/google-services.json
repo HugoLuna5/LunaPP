@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "753233839948",
+    "project_id": "lunapp-21044",
+    "storage_bucket": "lunapp-21044.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753233839948:android:80146ae433564edad171e9",
+        "android_client_info": {
+          "package_name": "lunainc.com.mx.lunapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753233839948-3p1l14garvvu60sdsmlg284s3ms8bkbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKPx4fMMUs1iTSLPUdOZO8h-q-A6TBH9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753233839948-3p1l14garvvu60sdsmlg284s3ms8bkbk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

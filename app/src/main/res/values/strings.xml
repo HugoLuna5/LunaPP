@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">LunaPP</string>
+    <string name="nameClient">Nombre del cliente</string>
+    <string name="phoneClient">Tel: 789 100 5104</string>
+    <string name="name_client_field">Nombre</string>
+    <string name="phoneClientField">Telefono</string>
+    <string name="add_client">Agregar cliente</string>
+    <string name="add">Agregar</string>
 </resources>
